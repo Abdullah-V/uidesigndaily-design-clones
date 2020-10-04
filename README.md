@@ -5,3 +5,5 @@
 ### https://uidesigndaily.com/posts/sketch-subscribe-modal-pop-up-newsletter-day-1193
 ## Design2:
 ### https://uidesigndaily.com/posts/sketch-price-cards-pricing-dark-theme-day-1165
+## Design3:
+### https://uidesigndaily.com/posts/sketch-website-section-subscribe-day-1062
