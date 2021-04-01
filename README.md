@@ -11,3 +11,5 @@
 ### https://uidesigndaily.com/posts/sketch-website-section-day-1228
 ## Design5:
 ### https://uidesigndaily.com/posts/sketch-sign-up-mobile-authentication-day-1250
+## Design6:
+### https://www.uidesigndaily.com/posts/xd-settings-modal-tags-dark-theme-day-1319
